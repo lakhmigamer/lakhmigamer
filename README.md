@@ -15,7 +15,7 @@
 - 📫 How to reach me **lakhminandanbaruah466@gmail.com**
 
 - 😉 Are you a pointer? **coz you got the address of my heart - Gamer Design**
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakhmigamer" alt="lakhmigamer" /></a> </p>
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
