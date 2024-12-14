@@ -2,15 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Lakhmi Nandan Baruah</h1>
 <h3 align="center">A passional Ethcial Hacking and Game Designer from India</h3>
-
+<img align="right" alt="Coder GIF" height=250 width=400 src="https://miro.medium.com/max/400/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakhmigamer&label=Profile%20views&color=0e75b6&style=flat" alt="lakhmigamer" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakhmigamer" alt="lakhmigamer" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/baruahlakhmi" target="blank"><img src="https://img.shields.io/twitter/follow/baruahlakhmi?logo=twitter&style=for-the-badge" alt="baruahlakhmi" /></a> </p>
-<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/400/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 - 🌱 I’m currently learning **My Bachelors in Ethcis Hacking and learning Gamer Designer**
 
@@ -19,6 +15,7 @@
 - 📫 How to reach me **lakhminandanbaruah466@gmail.com**
 
 - 😉 Are you a pointer? **coz you got the address of my heart - Gamer Design**
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakhmigamer" alt="lakhmigamer" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
