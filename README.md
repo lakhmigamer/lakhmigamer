@@ -9,7 +9,11 @@
 
 - 🌱 I’m currently learning **My Bachelors in Ethcis Hacking and learning Gamer Designer**
 
+- 💬 Ask me about **Gamer Design**
+
 - 📫 How to reach me **lakhminandanbaruah466@gmail.com**
+
+- 😉 Are you a pointer? **coz you got the address of my heart - Gamer Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,5 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakhmigamer&show_icons=true&locale=en" alt="lakhmigamer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakhmigamer&" alt="lakhmigamer" /></p>
+
 
 
