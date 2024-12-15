@@ -28,12 +28,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakhmigamer" alt="lakhmigamer" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakhmigamer&show_icons=true&locale=en&layout=compact" alt="lakhmigamer" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lakhmigamer&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lakhmigamer&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lakhmigamer&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakhmigamer&show_icons=true&locale=en" alt="lakhmigamer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakhmigamer&" alt="lakhmigamer" /></p>
-
-
+---
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
